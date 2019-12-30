@@ -8,7 +8,7 @@ public class Love {
 		System.out.println("Are you the most handsome in Beijing?");
 		System.out.println("测试分支");
 		
-		
+		System.out.println("测试冲突");
 	}
 
 }
