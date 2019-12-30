@@ -9,6 +9,7 @@ public class Love {
 		System.out.println("测试分支");
 		
 		System.out.println("测试冲突");
+		System.out.println("小舒来啦");
 	}
 
 }
